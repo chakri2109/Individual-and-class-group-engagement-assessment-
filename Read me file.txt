@@ -1,0 +1,3 @@
+export :  (envFace) C:\Users\pchak>"conda env export > IndStuEL.yml"
+
+create conda env: "conda env create -f IndStuEL.yml"
